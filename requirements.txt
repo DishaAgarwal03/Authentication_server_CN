@@ -1,0 +1,6 @@
+diffie-hellman key:
+https://pypi.org/project/py-diffie-hellman/#:~:text=from%20diffiehellman%20import%20DiffieHellman%20%23%20automatically%20generate%20two,keys%20should%20be%20equal%20assert%20dh1_shared%20%3D%3D%20dh2_shared
+pip install py-diffie-hellman
+
+AES/GCM:
+pip install pycryptodome
